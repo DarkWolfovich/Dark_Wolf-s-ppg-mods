@@ -1,6 +1,6 @@
 # Dark_Wolf-s-ppg-mods
 my ppg mods. For now you can use them with RE_PPG. 
-
+https://github.com/AlibardaWasTaken/RE_PPG/releases
 RE_PPG Installation Guide:
 1. Download RE_PPG-Installer.exe from Releases
 2. Make sure People Playground is completely closed
